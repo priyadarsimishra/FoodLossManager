@@ -1,0 +1,327 @@
+﻿Food Name,Menu Price,Quantity,Gross,Discount,Net
+(L) Ozeki Sake,$7.00,3,21,0,21
+(S) Ozeki Sake,$5.00,23,115,0,115
+A1 Madam Roll,$4.50,331,1494,0.45,1493.55
+A1 Madam Roll 1/2,$1.75,12,26,0,26
+A1 Madam Roll 1/3,$1.50,6,9,0,9
+A1 Madam Roll 1/4,$1.13,4,4.5,0,4.5
+A1 Madam Rolls,$4.50,140,642.75,0,642.75
+A1 Sauce,$0.75,8,6,0,6
+A11 Edamame,$6.00,77,461.5,1.5,460.0
+A11 Edamame 1/2,$3.00,2,6,0,6
+A11 Edamame 1/3,$2.00,6,12,0,12
+A11 Edamame 1/4,$1.50,4,6,0,6
+A11 Roasted Chili Edamame *,$6.00,31,187.5,0,187.5
+A2 Fresh Spring Rolls,$5.00,97,501.5,0,501.5
+A2 Fresh Spring Rolls (GF),$5.00,10,50.75,0,50.75
+A2 Fresh Spring Rolls (Veg),$5.00,3,15,0,15
+A2 Sauce,$0.75,10,7.5,0,7.5
+A2 Spring Roll,$5.00,234,1172.38,1.25,1171.13
+A2 Spring Roll (GF),$5.00,1,5,0,5
+A2 Spring Roll 1/2,$2.50,8,20,0,20
+A3 Brussels,$7.00,135,945,1.75,943.25
+A3 Brussels 1/2,$3.50,10,35,0,35
+A3 Brussels 1/3,$2.33,3,7,0,7
+A3 Brussels 1/4,$1.75,4,7,0,7
+A3 Brussels Sprout *,$7.00,48,336,0,336
+A3 Brussels Sprout * (GF),$7.00,3,21,0,21
+A3 Brussels Sprout * (Veg),$7.00,7,49,0,49
+A4 Sauce,$0.75,1,0.75,0,0.75
+A4 Thai Gyoza,$7.00,301,2111.5,3.5,2108.0
+A4 Thai Gyoza 1/2,$3.50,8,28,0,28
+A4 Thai Gyoza 1/4,$1.75,4,7,0,7
+Asahi,$3.00,24,70,0,70
+Asahi (Bottle),$3.00,2,6,0,6
+Brown Rice,$3.00,9,27,0,27
+Bud Light,$2.00,17,34,0,34
+Chamomile Tea,$3.00,2,6,0,6
+Chang,$3.00,1,3,0,3
+Cloudfall Pinot Noir,$8.00,1,8,0,8
+D1 Rice Mango,$7.00,32,224,1.75,222.25
+D1 Rice Mango 1/2,$3.50,2,7,0,7
+D1 Sweet Coconut Sticky Rice with Mango,$7.00,5,35,0,35
+D2 Rice Custard,$5.50,28,154,1.38,152.62
+D2 Rice Custard (GF),$5.50,1,5.5,0,5.5
+D2 Rice Custard 1/4,$1.38,4,5.5,0,5.5
+D2 Sweet Coconut Sticky Rice with Thai Egg Custard,$5.50,6,35.5,0,35.5
+Diet Dr.Pepper,$2.50,2,5,0,5
+Diet Pepsi,$2.50,1,2.5,0,2.5
+Diet Pepso,$2.50,13,32.5,0,32.5
+Dos XX,$3.00,37,107,0,107
+Dos XX 1/2,$1.50,2,3,0,3
+Dr. Pepper,$2.50,9,22.5,0,22.5
+Dr.Pepper,$2.50,8,20,0,20
+Extra A1 Sauce (Homemade Sweet and Sour Sauce),$0.75,1,0.75,0,0.75
+Extra A2 Sauce (Homemade Peanut Sauce),$0.75,4,3,0,3
+Extra A4 Sauce (Mam's Homemade Thai Gyoza Sauce) ,$0.75,1,0.75,0,0.75
+Extra Chili Lime Fish Sauce,$0.75,3,2.25,0,2.25
+Extra S2 Sauce (Homemade Hot Spicy Lime Sauce),$1.00,2,2,0,2
+F1 Pad Thai,$11.00,782,8675.65,2.75,8672.90
+F1 Pad Thai (GF),$11.00,2,22,0,22
+F1 Pad Thai 1/2,$5.50,4,26,0,26
+F1 Pad Thai 1/3,$3.67,6,22,0,22
+F1 Pad Thai 1/4,$2.75,8,22,0,22
+F1 Pad Thai*,$11.00,268,3034.6,0,3034.6
+F1 Pad Thai* (GF),$11.00,5,61,0,61
+F10 Pad Macaroni,$13.00,13,193,2,191
+F10 Pad Macaroni ( Shrimp or Squid ),$13.00,3,39,0,39
+F11 Guay Teaw Kua Gai ,$11.00,14,156,0,156
+F11 Teaw Kua Gai,$11.00,66,734,1.65,732.35
+F12 Teaw Nuer Sub,$11.00,18,198,0,198
+F12. Guay Teaw Nuer Sub,$11.00,6,68,0,68
+F13 (Street Padthai) Bankrupt Noodle,$11.00,126,1468.3,0,1468.3
+F13 (Street Padthai) Bankrupt Noodle (GF),$11.00,4,44,0,44
+F13 Bankrupt Noodle,$11.00,299,3387.6,7,3380.6
+F13 Bankrupt Noodle 1/2,$5.50,4,22,0,22
+F13 Bankrupt Noodle 1/4,$2.75,4,11,0,11
+F14 Pad Woon Sen,$11.00,33,376.8,0,376.8
+F14 Pad WoonSen,$11.00,61,678,0,678
+F15 Pad Woon Sen,$13.00,8,106,3.25,102.75
+F15 Pad Woon Sen ( Shrimp or Squid ),$13.00,6,84.8,0,84.8
+F2 Pad Thai,$13.00,95,1257.5,1.95,1255.55
+F2 Pad Thai ( Shrimp or Squid )*,$13.00,30,415,0,415
+F2 Pad Thai ( Shrimp or Squid )* (GF),$13.00,1,13,0,13
+F3 Pad Sea-Ew,$11.00,1176,13254.7,8.48,13246.22
+F3 Pad Sea-Ew 1/2,$5.50,10,55,0,55
+F3 Pad Sea-Ew 1/3,$3.67,6,22,0,22
+F3 Pad Sea-Ew 1/4,$2.75,4,11,0,11
+F4 Pad Sea-Ew,$13.00,44,574,0,574
+F4 Pad Sea-Ew ( Shrimp or Squid ),$13.00,25,333,0,333
+F4 Pad Sea-Ew 1/3,$4.33,3,13,0,13
+F5 Pad Kee Mao (Drunken Noodle)*** (GF),$11.00,7,77,0,77
+F5 Pad KeeMao,$11.00,493,5501.75,9.85,5491.90
+F5 Pad KeeMao (GF),$11.00,1,11,0,11
+F5 Pad KeeMao 1/2,$5.50,2,11,0,11
+F5 Spicy Pad Kee Mao (Drunken Noodle)***,$11.00,157,1798,0,1798
+F6 Pad KeeMao,$13.00,53,702,15.6,686.4
+F6 Spicy Pad Kee Mao (Drunken Noodle Sh/Sq)***,$13.00,15,205,0,205
+F7 Lard Na,$11.00,22,242,0,242
+F8 Lard Na,$13.00,1,13,0,13
+F8 Lard Na ( Shrimp or Squid ),$13.00,1,15,0,15
+F9 Pad Macaroni,$11.00,58,645,1.6,643.4
+F9 Pad Macaroni (Veg),$11.00,3,35,0,35
+Fireman #4,$3.00,9,26,0,26
+Flat Rice Noodle,$3.00,2,6,0,6
+G1 Lek Hang,$11.00,20,224,0,224
+G1 Sen Lek Hang,$11.00,3,35,0,35
+G1 Soup,$2.00,2,4,0,4
+G4 Yum Guay Teaw *,$11.00,2,27.5,0,27.5
+G4 Yum Teaw*,$11.00,14,162,0,162
+G4 Yum Teaw* 1/2,$5.50,2,11,0,11
+G4 Yum Teaw* 1/3,$3.67,3,11,0,11
+Ginger Spice Tea,$3.00,5,15,0,15
+Green Tea (Hot),$3.00,2,6,0,6
+Ice Thai Milk Green Tea ,$3.95,18,71.75,0,71.75
+Jarritos,$3.00,40,120,0,120
+Jasmin Jade Tea,$3.00,8,24,0,24
+Jasmine White Rice,$2.50,37,92.5,0,92.5
+Kenwood Cab Sauvignon,$6.00,3,18,0,18
+Kirin Ichiban,$3.00,108,308,0.3,307.7
+Kirin Ichiban (Bottle) ,$3.00,2,6,0,6
+Kirin Ichiban 1/2,$1.00,2,2,0,2
+Kirin Light,$3.00,9,25,0,25
+Lemongrass Ginger (Hot),$3.00,1,3,0,3
+Lemongrass Ginger Tea,$3.00,9,27,0,27
+Mam's Ice Thai Coffee,$3.50,21,82,0,82
+Mam's Ice Thai Tea ,$4.00,59,236,0,236
+Mam's Thai coffee (NO ICE),$5.00,3,15,0,15
+Mam's Thai Milk Green Tea (No Ice),$5.00,1,5,0,5
+Mam's Thai Tea (NO ICE),$5.00,4,20,0,20
+Mam's Wings 10 Pieces,$13.00,16,210.5,0,210.5
+Mam's Wings 15 Pieces,$18.00,3,55.5,0,55.5
+Mam's Wings 20 Pieces,$24.00,4,96,0,96
+Mam's Wings 5 Pieces,$7.00,28,203.75,0,203.75
+Mex Coke,$3.00,48,144,0,144
+Moonstone Asia Pear,$13.75,1,13.75,0,13.75
+Moonstone Sake,$13.75,2,27.5,3.44,24.06
+Mountain Dew,$2.50,37,92.5,0,92.5
+NS1 Guay Teaw Nuer Sod,$11.00,9,99,0,99
+NS1 Soup,$2.00,1,2,0,2
+NS1 Teaw NuerSod,$11.00,72,803.6,2.75,800.85
+NS11 Udon Tom Yum **,$11.00,7,79,0,79
+NS11 Udon TomYum,$11.00,25,279.55,0,279.55
+NS12 Yen Ta Fo Seafood **,$13.00,4,52,0,52
+NS12 YenTaFo Sea,$13.00,7,93,0,93
+NS13 Yen Ta Fo Tofu **,$11.00,2,23.5,0,23.5
+NS13 YenTaFo Tofu,$11.00,9,105,0,105
+NS14 Guay Teaw Tom Yum Moo ****,$11.00,3,33,0,33
+NS14 TomYum Moo,$11.00,24,273.8,0,273.8
+NS15 Tom Khlong,$11.00,8,90,0,90
+NS15 Tom Khlong **.,$11.00,1,11,0,11
+NS16 Kao Soi,$12.50,44,559,5.76,553.24
+NS16 Kao Soi **,$12.50,16,204.5,0,204.5
+NS16 Kao Soi 1/2,$6.25,2,12.5,0,12.5
+NS5 Guay Teaw Moo,$11.00,3,40,0,40
+NS5 Teaw Moo,$11.00,17,189,0,189
+NS6 Guay Teaw Gai Toon,$11.00,4,44,0,44
+NS6 Teaw Gai,$11.00,27,300,0,300
+NS6 Teaw Gai 1/2,$5.50,2,11,0,11
+NS8 Guay Teaw Tom Yum **,$11.00,15,171,0,171
+NS8 Teaw TomYum,$10.25,24,252,0,252
+NS9 Guay Teaw Tom Yum Seafood **,$13.00,1,13,0,13
+NS9 Teaw TomYum Sea,$13.00,10,130,0,130
+Oolong Tea,$3.00,3,9,0,9
+Open Food,$0.00,6,56.25,0,56.25
+Open Liquor,$0.00,5,71,0,71
+Organic Brown Rice ,$2.50,1,2.5,0,2.5
+P1 Basil Fried Rice,$12.00,221,2702.3,19.9,2682.4
+P1 Basil Fried Rice 1/2,$6.00,4,24,0,24
+P1 Spicy Basil Fried Rice ****,$12.00,70,861.5,0,861.5
+P10 Spicy Tom Yum Soup **,$11.00,6,68,0,68
+P10 TomYum,$11.00,43,491,0,491
+P11 Spicy Tom Kha Coconut Soup**,$11.00,25,277,0,277
+P11 Tom Kha,$11.00,79,892,0,892
+P11 Tom Kha 1/2,$5.50,2,11,0,11
+P12 Panang Curry,$11.00,190,2117,1.16,2115.84
+P12 Panang Curry **,$11.00,55,622,0,622
+P13 Masman Curry,$11.00,74,822.5,0,822.5
+P13 Masman Curry **,$11.00,28,324.5,0,324.5
+P14 Mixed Vegetable Stir-fried,$11.00,25,295,0,295
+P14 Veg Stir-fried,$11.00,44,490.5,0,490.5
+P15 Prik Thai Dum,$13.00,29,389,14.5,374.5
+P15 Prik Thai Dum 1/3,$4.33,3,13,0,13
+P15	 Pad Prik Thai Dum *,$13.00,13,179,0,179
+P18 Sweet & Sour,$13.00,39,515,0,515
+P18 Thai Sweet and Sour,$13.00,8,107,0,107
+P19 Rice Soup,$11.00,3,33,0,33
+P2 Pad Ga-Tiam,$11.00,63,708.3,0,708.3
+P2 Pad Ga-Tiam Prik Thai *,$11.00,10,112,0,112
+P22 Prik Khing,$11.00,22,246,0,246
+P22	 Pad Prik Khing **,$11.00,5,55,0,55
+P22	 Pad Prik Khing ** (GF),$11.00,1,11,0,11
+P24 Prik Pao,$11.00,34,378,0,378
+P24	 Pad Prik Pao*,$11.00,14,163,0,163
+P24	 Pad Prik Pao* (GF),$11.00,2,22,0,22
+P25 Gang Jeud,$10.50,4,44,0,44
+P26 Gang Pa,$12.50,14,179,0,179
+P26 Gang Pa (Jungle Curry) ****,$13.00,4,54,0,54
+P28 Amaz,$14.00,4,60,0,60
+P28	 Amazing Seafood Green Beans ***,$14.00,1,14,0,14
+P3 Garee Curry,$11.00,123,1371,0,1371
+P3 Garee Curry **,$11.00,53,606.5,0,606.5
+P31 Amaz Grn Bean,$12.00,16,192,0,192
+P31	 Spicy Amazing Green Beans  ***,$12.00,10,130,0,130
+P32 Pad Nor Mai,$12.00,15,184,0,184
+P32	 Spicy Pad Ped Nor Mai ****,$12.00,3,36,0,36
+P34 Bean Sprout,$11.00,12,136,0,136
+P34 Bean Sprout 1/3,$3.67,3,11,0,11
+P34	 Stir-fried Bean Sprout,$11.00,2,22,0,22
+P35 Kai Jeaw,$11.00,6,66,0,66
+P38 Kaeng Daeng Vegetables **,$12.00,3,40,0,40
+P38 Kaeng Veg,$12.00,24,306.5,0,306.5
+P4 Keow Wan Curry **,$11.00,44,499.75,0,499.75
+P4 Keow Wan Curry ** (GF),$11.00,2,22,0,22
+P4 KeowWan Curry,$11.00,98,1096,2.75,1093.25
+P4 KeowWan Curry 1/2,$5.50,2,11,0,11
+P41 S Panang Beef,$17.00,41,699,8.5,690.5
+P41 Special Panang Beef Curry **,$17.00,13,225,0,225
+P42 S Garee Beef,$17.50,26,457.8,0,457.8
+P42 S Garee Beef 1/3,$5.83,3,17.5,0,17.5
+P42 Special Garee Beef Curry **,$17.50,3,52.5,0,52.5
+P45 S Gang Prik,$11.00,22,254.5,0,254.5
+P45 special Gang Prik ****,$11.00,5,61,0,61
+P47 Pad Prik Gang,$11.00,32,368,0,368
+P47 Pad Prik Gang ****,$11.00,5,55,0,55
+P5 Gang Kua Supparod Curry*,$11.00,7,80,0,80
+P5 Gang Supparod,$11.00,29,326.35,0,326.35
+P5 Gang Supparod 1/3,$3.67,3,11,0,11
+P6 Fried Rice,$10.00,358,3704.2,0,3704.2
+P6 Fried Rice 1/2,$5.00,2,12,0,12
+P6	 House Fried Rice,$10.00,155,1625.5,0,1625.5
+P6	 House Fried Rice (Veg),$10.00,4,42,0,42
+P61 Crab FriRice,$16.00,59,950,4,946
+P61 Crab FriRice 1/2,$8.00,2,16,0,16
+P61 Crab FriRice 1/3,$5.33,6,32,0,32
+P61 Crab FriRice 1/4,$4.00,4,16,0,16
+P61 Mam's Crab Fried Rice,$16.00,5,82,0,82
+P62 St FriRice,$11.00,142,1604.5,0,1604.5
+P62 St FriRice 1/2,$5.50,2,11,0,11
+P62 Street Fried Rice,$11.00,178,1981.5,6.05,1975.45
+P62 Street Fried Rice 1/2,$5.50,2,11,0,11
+P62	 Street Fried Rice,$11.00,135,1556.4,0,1556.4
+P63 Thai egg Explosion,$11.50,25,289.5,0,289.5
+P63 Thai Egg Explosion **,$11.50,2,23.5,0,23.5
+P7 Pineapple Fried Rice,$14.00,20,283,0,283
+P7 Pineapple Fried Rice (Veg),$14.00,7,98,0,98
+P7 Pineapple FriRice,$14.00,96,1358.5,0,1358.5
+P7 Pineapple FriRice 1/2,$7.00,2,14,0,14
+P7 Pineapple FriRice 1/3,$4.67,6,28,0,28
+P7 Pineapple FriRice 1/4,$3.50,4,14,0,14
+P8 Pad Ga-Prao,$11.00,27,305,0,305
+P8 Pad Ped Ga-Prao ** ,$11.00,8,91,0,91
+P9 Pad Ga-Prao,$13.00,7,96,0,96
+Pepsi,$2.50,30,75,0,75
+Plain Sticky Rice,$2.50,2,5,0,5
+Pure Green Tea,$3.00,4,12,0,12
+Rice,$2.50,57,142.5,0,142.5
+Roast Chili L,$18.00,1,18,0,18
+Roast Chili S,$10.00,2,20,0,20
+Root Beer,$2.50,1,2.5,0,2.5
+S1 Mam's Salad,$5.00,12,60,0,60
+S2 Sauce,$0.75,2,1.5,0,1.5
+S2 Yum Nuer,$12.50,26,331,0,331
+S2 Yum Nuer **,$12.50,2,25,0,25
+S2 Yum Tofu ** (Veg),$12.50,2,25,0,25
+S3 Num Tok,$12.50,22,278,5.01,272.99
+S3 Num Tok (Waterfall) **,$12.50,7,89.5,0,89.5
+S3 Num Tok 1/2,$6.25,2,12.5,0,12.5
+S3 Num Tok 1/3,$4.17,3,12.5,0,12.5
+S4 Papaya Salad (Veg),$10.50,2,21,0,21
+S4 Som Tum,$10.50,32,336,2.63,333.37
+S4 Som Tum (Papaya Salad) **,$10.50,11,115.5,0,115.5
+S4 Som Tum (Papaya Salad) **  (Veg),$10.50,2,21,0,21
+S5 Yum Green Bean *,$12.50,4,54,0,54
+S5 Yum Grn Bean,$12.50,7,89.5,0,89.5
+S5 Yum Grn Bean 1/2,$6.25,2,12.5,0,12.5
+Sake Bomb,$9.00,16,144,0,144
+Sake Bomb 1/2,$4.50,8,36,0,36
+Sake Single,$4.00,28,112,1,111
+Sapporo,$3.00,38,102,0.3,101.7
+Sayuri Nigori,$13.75,7,96.25,0,96.25
+SD Bean Thread,$2.50,2,5,0,5
+SD Beef,$3.00,1,3,0,3
+SD Bok Choy,$2.00,1,2,0,2
+SD Broccoli,$2.00,3,6,0,6
+SD Cilantro,$0.50,2,1,0,1
+SD Flat Noodle,$2.50,1,2.5,0,2.5
+SD Green Onion,$0.50,1,0.5,0,0.5
+SD Lime/Lemon,$0.50,5,2.5,0,2.5
+SD Midnight Sauce,$0.75,3,2.25,0,2.25
+SD Mix Veggies,$3.00,1,3,0,3
+SD Spicy Roasted Chili Sauce,$0.75,1,0.75,0,0.75
+SD Spicy Sriracha Sauce,$0.75,1,0.75,0,0.75
+SD Steamed Egg Noodle,$2.50,2,5,0,5
+Sierra Mist,$2.50,1,2.5,0,2.5
+Singha,$3.00,18,54,0,54
+Singha Beer Bottle,$3.00,2,6,0,6
+Sticky Rice,$3.00,5,15,0,15
+Sub Brown Rice,$2.50,11,27.5,0,27.5
+sweet coconut sauce ,$1.00,1,1,0,1
+Sweet Ice Tea,$3.00,35,105,0,105
+Sweet Sticky Rice topped with Coconut Sauce,$3.50,4,14,0,14
+Thai Coffee,$4.00,107,428,2.6,425.4
+Thai Coffee(No Ice),$5.00,5,25,0,25
+Thai Milk Green Tea,$4.00,95,380,0,380
+Thai Milk Green Tea 1/3,$1.33,3,4,0,4
+Thai Milk Green Tea(No Ice),$5.00,8,40,0,40
+Thai Tea,$4.00,375,1500,2.6,1497.4
+Thai Tea 1/2,$2.00,2,4,0,4
+Thai Tea 1/3,$1.33,3,4,0,4
+Thai Tea(No Ice),$5.00,24,120,0,120
+Thai Tea(No Ice) 1/3,$1.67,3,5,0,5
+The Seeker Pinot Grigio,$6.00,5,34,0,34
+The Seeker Pinot Grigio 1/2,$3.00,2,6,0,6
+Tiger,$3.00,25,70,0,70
+Tiger Beer (Bottle) ,$3.00,1,3,0,3
+Topo Chico,$2.50,7,17.5,0,17.5
+Tormaresca Chardonnay,$8.00,3,22,0,22
+Tropicana Lemonade,$2.50,3,7.5,0,7.5
+Wings 1 Mix,$7.00,103,721.5,0.7,720.8
+Wings 1 Mix 1/2,$3.50,4,14,0,14
+Wings 2 Mix,$13.00,57,740,5,735
+Wings 2 Mix 1/2,$6.50,6,39,0,39
+Wings 3 Mix,$18.00,9,163.5,0,163.5
+Wings 3 Mix 1/2,$9.00,4,36,0,36
+Wings 3 Mix 1/3,$6.00,3,18,0,18
+Wings 5 Mix,$30.00,1,30,0,30
+XT Roasted Chili ,$0.75,1,0.75,0,0.75
