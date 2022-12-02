@@ -99,16 +99,6 @@ const Login = () => {
               autoComplete="email"
               placeholder="Email"
               required
-              // value={currUser?.username}
-              // onChange={(evt) => {
-              //         setCurrUser({
-              //         username: evt.target.value,
-              //         email: currUser?.email,
-              //         password: currUser?.password,
-              //         type: currUser?.type,
-              //         })
-              //     }
-              // }
             />
           </InputGroup>
         </FormControl>
