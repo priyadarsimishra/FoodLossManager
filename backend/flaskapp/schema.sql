@@ -1,0 +1,22 @@
+DROP TABLE IF EXISTS user;
+DROP TABLE IF EXISTS sales_data;
+
+CREATE TABLE user (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  username TEXT UNIQUE NOT NULL,
+  password TEXT NOT NULL
+);
+
+CREATE TABLE sales_data (
+  id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  author_id INTEGER,
+  food_name TEXT NOT NULL,
+  menu_price DECIMAL NOT NULL,
+  quantity DECIMAL NOT NULL,
+  gross DECIMAL NOT NULL,
+  discount DECIMAL NOT NULL,
+  net DECIMAL NOT NULL,
+  begin_date TIMESTAMP NOT NULL,
+  end_date TIMESTAMP NOT NULL,
+  FOREIGN KEY (author_id) REFERENCES user (id)
+);
